@@ -1,0 +1,15 @@
+﻿# Keil temporary files
+*.uvguix.*
+*.uvgui.*
+*.dep
+*.lst
+*.obj
+*.htm
+*.lnp
+*.sct
+*.map
+*.axf
+*.build_log.htm
+Listings/
+Objects/
+RTE/
