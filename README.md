@@ -1,5 +1,8 @@
 ﻿# STM32 Bare-Metal Interrupt & GPIO Driver
 
+#here you can watch video for the task
+https://youtu.be/kughYirczTk
+
 This repository contains bare-metal firmware for the **STM32F103CB (Cortex-M3)**. It demonstrates low-level hardware interaction by bypassing HAL and interacting directly with memory-mapped registers.
 
 ## 🛠️ Function Documentation
